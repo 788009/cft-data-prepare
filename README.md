@@ -58,3 +58,7 @@
     - 大陆学校大部分来自 [china-university-location](https://github.com/flwfdd/china-university-location)，中国人民解放军信息工程大学数据来自[维基百科](https://en.wikipedia.org/wiki/PLA_Information_Engineering_University)
     - 港澳台地区数据大部分来自[这篇文章](https://blog.csdn.net/cold_long/article/details/102966505)，香港中文大学、香港理工大学、香港科技大学数据来自 Google Maps
 - 省市区 adcode 数据来自 [AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov)
+
+## 许可证
+
+MIT License
